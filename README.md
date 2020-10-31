@@ -6,4 +6,4 @@ I'm a highschool junior in California.
 
 ### Reach me at clasernaj@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjlaserna)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjlaserna&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
