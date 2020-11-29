@@ -4,6 +4,6 @@ I'm a highschool junior in California.
 * 💻I'm working on updating the Birb Universe site and my personal portfolio.
 * 🖌 I'm looking to collaborate on a blog that provides under represented or underprivileged kids online resources to learn more about CS.
 
-### Reach me at clasernaj@gmail.com ^_^
+### Reach me at clasernaj@gmail.com 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjlaserna&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
