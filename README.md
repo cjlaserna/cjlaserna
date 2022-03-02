@@ -4,6 +4,10 @@
 
 I'm a Filipino high school student, self-taught web developer, and video game enthusiast from a low-income family. I'm currently applying for college or university and planning to pursue a major in computer science.
 
+**What've I been up to this week?** 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Email: clasernaj@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjlaserna&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
