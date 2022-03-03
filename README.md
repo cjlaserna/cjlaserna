@@ -6,6 +6,16 @@ I'm a Filipino high school student, self-taught web developer, and video game en
 
 **What've I been up to this week?** 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   7 hrs 8 mins    █████████████░░░░░░░░░░░░   52.12 %
+Python       3 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+YAML         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Docker       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Text         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+```
+
 <!--END_SECTION:waka-->
 
 Email: clasernaj@gmail.com
