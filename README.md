@@ -8,12 +8,12 @@ I'm a Filipino high school student, self-taught web developer, and video game en
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 8 mins    █████████████░░░░░░░░░░░░   52.12 %
-Python       3 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
-YAML         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Docker       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Text         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+JavaScript   5 hrs 33 mins   █████████████▒░░░░░░░░░░░   53.04 %
+Python       1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+YAML         59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Docker       50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Text         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
