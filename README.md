@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/catherinelaserna/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Instagram"/></a> 
 <a href="https://cjlaserna.github.io/"><img src="https://img.shields.io/badge/-Portfolio-purple" alt="Instagram"/></a> 
 
+## Hello, I'm Catherine.
 I'm a Filipino high school student, self-taught web developer, and video game enthusiast from a low-income family. I'm currently applying for college or university and planning to pursue a major in computer science.
 
 **What've I been up to this week?** 
@@ -13,6 +14,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-Email: clasernaj@gmail.com
-
+-------------
+### Portfolio/Contact: [cjlaserna.github.io](cjlaserna.github.io)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjlaserna&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
