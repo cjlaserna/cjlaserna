@@ -15,5 +15,5 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 -------------
-### Portfolio/Contact: [cjlaserna.github.io](cjlaserna.github.io)
+### Portfolio/Contact: [cjlaserna.github.io](https://cjlaserna.github.io)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjlaserna&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
