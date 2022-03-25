@@ -3,7 +3,7 @@
 <a href="https://cjlaserna.github.io/"><img src="https://img.shields.io/badge/-Portfolio-purple" alt="Instagram"/></a> 
 
 ## Hello, I'm Catherine.
-I'm a Filipino high school student, self-taught web developer, and video game enthusiast from a low-income family. I'm currently applying for college or university and planning to pursue a major in computer science.
+I'm a Filipino high school senior, self-taught web developer, and video game enthusiast from a low-income family. I'm currently applying for college or university and planning to pursue a major in computer science.
 
 **What've I been up to this week?** 
 <!--START_SECTION:waka-->
