@@ -9,12 +9,12 @@ I'm a Filipino high school senior, self-taught web developer, and video game ent
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript    26 hrs 21 mins  █████████████████████░░░░   84.47 %
-CSS           2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-JSON          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-JavaScript    54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+TypeScript    26 hrs 20 mins  █████████████████████░░░░   84.62 %
+CSS           2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+JSON          1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+JavaScript    47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 HTML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
