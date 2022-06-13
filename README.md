@@ -3,7 +3,7 @@
 <a href="https://cjlaserna.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-purple" alt="Instagram"/></a> 
 
 ## Hello, I'm Catherine.
-I'm a Filipino high school senior, self-taught web developer, and video game enthusiast from a low-income family. I'm currently applying for college or university and planning to pursue a major in computer science.
+I'm a Filipino high school senior, self-taught web developer, and video game enthusiast from a low-income family. I'm going to be a full time student at Fresno State University with a full scholarship :)
 
 **What've I been up to this week?** 
 <!--START_SECTION:waka-->
