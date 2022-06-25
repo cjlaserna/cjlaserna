@@ -1,13 +1,8 @@
 ## 👋 Hello I'm Catherine
 
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/clasernaj/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherinelaserna/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bubbaguppylive)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-purple)](https://cjlaserna.vercel.app/)
+I'm an incredibly eager learner and collaborator, passionate about all things tech and games 💞️
 
-> ### I'm an incredibly eager learner and collaborator, passionate about all things tech and games 💞️
-
-<img align="right" alt="GIF" src="https://i.ibb.co/QrLVbp8/profile.gif" />
+<img align="right" alt="GIF" src="https://i.ibb.co/QrLVbp8/profile.gif" style='margin-left: 20px' />
 
 ### What am I up to?
 
@@ -25,3 +20,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-F88379?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cjlaserna.vercel.app/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](http://twitch.tv/bubbaguppylive)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherinelaserna/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bubbaguppylive)
