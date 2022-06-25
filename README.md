@@ -1,20 +1,27 @@
-<a href="https://www.instagram.com/clasernaj/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/catherinelaserna/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Instagram"/></a> 
-<a href="https://cjlaserna.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-purple" alt="Instagram"/></a> 
+## 👋 Hello I'm Catherine
 
-## Hello, I'm Catherine.
-I'm a Filipino high school senior, self-taught web developer, and video game enthusiast from a low-income family. I'm going to be a full time student at Fresno State University with a full scholarship :)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/clasernaj/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherinelaserna/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bubbaguppylive)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-purple)](https://cjlaserna.vercel.app/)
 
-**What've I been up to this week?** 
+> ### I'm an incredibly eager learner and collaborator, passionate about all things tech and games 💞️
+
+<img align="right" alt="GIF" src="https://i.ibb.co/QrLVbp8/profile.gif" />
+
+### What am I up to?
+
+- Exploring DigitalOcean server hosting, databases, and linux systems through the [MLH Fellowship powered by Meta](https://fellowship.mlh.io/programs/production-engineering)
+- Playing catch up on procrastinated intern work for [1000DreamsFund](https://1000dreamsfund.org/)
+- Building on my skills publicly on [Twitch](http://twitch.tv/bubbaguppylive)
+- Planning to leave for Hawaii!
+
+### Which languages have I been working with recently?
+
 <!--START_SECTION:waka-->
 
 ```text
-Python       46 mins         ███████████████████░░░░░░   76.66 %
-Other        7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
--------------
-### Portfolio/Contact: [cjlaserna.github.io](https://cjlaserna.github.io)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjlaserna&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
