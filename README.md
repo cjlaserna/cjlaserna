@@ -9,7 +9,8 @@ I'm a Filipino high school senior, self-taught web developer, and video game ent
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       46 mins         ███████████████████░░░░░░   76.66 %
+Other        7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
 ```
 
 <!--END_SECTION:waka-->
