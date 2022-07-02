@@ -16,9 +16,8 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-Python       46 mins         ████████░░░░░░░░░░░░░░░░░   32.39 %
-Markdown     36 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
-Other        27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Markdown     36 mins         ███████████░░░░░░░░░░░░░░   43.80 %
+Other        20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.60 %
 ```
 
 <!--END_SECTION:waka-->
