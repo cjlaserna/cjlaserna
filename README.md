@@ -16,8 +16,7 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     36 mins         ███████████░░░░░░░░░░░░░░   43.80 %
-Other        20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
