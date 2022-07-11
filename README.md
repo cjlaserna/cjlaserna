@@ -9,7 +9,7 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 - Exploring DigitalOcean server hosting, databases, and linux systems through the [MLH Fellowship powered by Meta](https://fellowship.mlh.io/programs/production-engineering)
 - Playing catch up on procrastinated intern work for [1000DreamsFund](https://1000dreamsfund.org/)
 - Building on my skills publicly on [Twitch](http://twitch.tv/bubbaguppylive)
-- Planning to leave for Hawaii!
+- Getting ready for the upcoming school year
 
 ### Which languages have I been working with recently?
 
