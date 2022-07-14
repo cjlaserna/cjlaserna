@@ -16,11 +16,12 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-Python       0 secs          ████████████░░░░░░░░░░░░░   47.93 %
-YAML         0 secs          ███████░░░░░░░░░░░░░░░░░░   28.31 %
-Docker       0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-HTML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+HTML         2 mins          ████████████████████▒░░░░   81.58 %
+Python       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+YAML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Docker       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
