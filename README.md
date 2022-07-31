@@ -16,8 +16,7 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-Astro        10 mins         ████████████████████▒░░░░   80.97 %
-Other        1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
