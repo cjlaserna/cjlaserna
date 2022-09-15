@@ -6,10 +6,10 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 
 ### What am I up to?
 
-- Exploring DigitalOcean server hosting, databases, and linux systems through the [MLH Fellowship powered by Meta](https://fellowship.mlh.io/programs/production-engineering)
+- Polishing up the website for [Fresno State Student Housing](https://fresnostatehousing.org/) as their web designer.
 - Playing catch up on procrastinated intern work for [1000DreamsFund](https://1000dreamsfund.org/)
-- Building on my skills publicly on [Twitch](http://twitch.tv/bubbaguppylive)
-- Getting ready for the upcoming school year
+- Making AI Generated art through [Stable Diffusion](https://stability.ai/) for my Critical Thinking and Computer science class.
+- Hustling through internship applications and prepping for interviews
 
 ### Which languages have I been working with recently?
 
