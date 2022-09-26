@@ -16,9 +16,10 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-HTML         0 secs          ███████████████▓░░░░░░░░░   63.30 %
-JavaScript   0 secs          ████████▒░░░░░░░░░░░░░░░░   33.55 %
-CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Twig       2 mins          ███████████▓░░░░░░░░░░░░░   46.41 %
+YAML       0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Markdown   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Other      0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
 ```
 
 <!--END_SECTION:waka-->
