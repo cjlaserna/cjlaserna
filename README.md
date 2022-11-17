@@ -16,7 +16,8 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-C++   19 mins         █████████████████████████   100.00 %
+C++        19 mins         ██████████████████████▓░░   90.48 %
+Markdown   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
 ```
 
 <!--END_SECTION:waka-->
