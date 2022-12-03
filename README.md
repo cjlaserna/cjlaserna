@@ -16,12 +16,12 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-Astro        8 hrs 49 mins   █████████████████▒░░░░░░░   68.78 %
-CSS          3 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
-JavaScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Astro        14 hrs 10 mins  ███████████████████░░░░░░   75.76 %
+CSS          3 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
