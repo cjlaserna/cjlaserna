@@ -9,7 +9,6 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 - Polishing up the website for [Fresno State Student Housing](https://fresnostatehousing.org/) as their web designer.
 - Playing catch up on procrastinated intern work for [1000DreamsFund](https://1000dreamsfund.org/)
 - Making AI Generated art through [Stable Diffusion](https://stability.ai/) for my Critical Thinking and Computer science class.
-- Hustling through internship applications and prepping for interviews
 
 ### Which languages have I been working with recently?
 
