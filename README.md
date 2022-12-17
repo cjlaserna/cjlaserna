@@ -15,10 +15,9 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-C++      29 mins         ████████████████░░░░░░░░░   64.61 %
-Text     7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-Python   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+C++     2 hrs 52 mins   ███████████████████████▒░   92.79 %
+Text    12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
