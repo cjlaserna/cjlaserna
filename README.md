@@ -7,8 +7,8 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 ### What am I up to?
 
 - Polishing up the website for [Fresno State Student Housing](https://fresnostatehousing.org/) as their web designer.
-- Playing catch up on procrastinated intern work for [1000DreamsFund](https://1000dreamsfund.org/)
-- Making AI Generated art through [Stable Diffusion](https://stability.ai/) for my Critical Thinking and Computer science class.
+- Doing some work as the new VP for my university's [CSCI Club](https://1000dreamsfund.org/](https://cscifresnostate.github.io/ClubWebSite/)
+- valo
 
 ### Which languages have I been working with recently?
 
