@@ -15,11 +15,7 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-Dart         44 mins         ████████████████████▒░░░░   81.05 %
-Markdown     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-XML          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Swift        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
