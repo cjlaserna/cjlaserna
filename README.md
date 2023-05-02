@@ -6,9 +6,9 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 
 ### What am I up to?
 
-- Polishing up the website for [Fresno State Student Housing](https://fresnostatehousing.org/) as their web designer.
-- Doing some work as the new VP for my university's [CSCI Club](https://1000dreamsfund.org/](https://cscifresnostate.github.io/ClubWebSite/)
-- valo
+- Creating mini-games with my young students at the [Applied Computing Foundation](https://applied-computing.org/)
+- Working on a project / bet with a friend on who can make a better game by August >:)
+- Studying for Finals!
 
 ### Which languages have I been working with recently?
 
@@ -19,6 +19,10 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+I've been trying to do more leetcode lately lol My stats are horrible now, but I'm working on it... trust
+
+[![Catherine's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=clasernaj&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 [![Donate](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/clasernaj)
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cjlaserna.vercel.app/)
