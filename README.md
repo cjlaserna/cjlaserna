@@ -21,11 +21,10 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```text
-C++        13 hrs 48 mins  ███████████████████████▓░   94.38 %
-C#         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Markdown   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Other      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++     11 hrs 20 mins  ████████████████████████░   95.89 %
+C#      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Other   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
