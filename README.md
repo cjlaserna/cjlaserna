@@ -21,8 +21,7 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```txt
-Python   11 mins         ████████████████████████▓   99.22 %
-C#       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
