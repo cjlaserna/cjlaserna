@@ -21,8 +21,9 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```txt
-C#      21 hrs 50 mins  █████████████████████████   99.85 %
-Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+C#           17 hrs 7 mins   ████████████████████████▓   98.67 %
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
