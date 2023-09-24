@@ -21,11 +21,8 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 54 mins   █████████████████████▒░░░   85.31 %
-Prolog       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-XML          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Ezhil        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+TypeScript   1 hr 21 mins    █████████████████████████   99.90 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
