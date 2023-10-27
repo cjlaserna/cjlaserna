@@ -21,7 +21,8 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   13 mins         ██████████████████████▒░░   89.74 %
+Other        1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
 ```
 
 <!--END_SECTION:waka-->
