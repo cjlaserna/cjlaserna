@@ -21,11 +21,11 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 20 mins   ██████████████████████▒░░   89.58 %
-Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript   8 hrs 10 mins   ██████████████████████▓░░   90.02 %
+Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
