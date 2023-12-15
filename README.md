@@ -21,11 +21,11 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 hrs 37 mins   ████████████████████▓░░░░   82.62 %
-CSS          1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JavaScript   1 hr 33 mins    █████████████████░░░░░░░░   68.45 %
+CSS          28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+Markdown     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
