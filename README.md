@@ -21,8 +21,7 @@ I'm an incredibly eager learner and collaborator, passionate about all things te
 <!--START_SECTION:waka-->
 
 ```txt
-C++     2 mins          ███████████████████████▓░   94.93 %
-Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
